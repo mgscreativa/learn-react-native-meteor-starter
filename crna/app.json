@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "React Native Meteor Client",
+    "description": "Test app to develop RN app with CRNA and Meteor as backend server",
+    "slug": "reactnativemeteorclient",
+    "privacy": "public",
+    "sdkVersion": "22.0.0",
+    "orientation": "portrait",
+    "icon": "./app/assets/app-icons/ios-app-icon.png",
+    "splash": {
+      "image": "./app/assets/splash/splash-screen.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#4db389"
+    },
+    "ios": {
+      "bundleIdentifier": "com.mgscreativa.reactnativemeteorclient",
+      "icon": "./app/assets/app-icons/ios-app-icon.png"
+    },
+    "android": {
+      "package": "com.mgscreativa.reactnativemeteorclient",
+      "icon": "./app/assets/app-icons/android-app-icon.png"
+    }
+  }
+}
